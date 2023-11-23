@@ -1,0 +1,12 @@
+footer {
+    height: 80px; /* Adjust the height as needed */
+}
+
+#current-time {
+    font-family: Century, emoji;
+}
+
+.card-img-top {
+    height: 330px; /* Adjust the height as needed */
+    object-fit: cover; /* Ensures the image covers the entire container */
+}
